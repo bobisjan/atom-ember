@@ -7,6 +7,13 @@
     "atom",
     "ember"
   ],
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
   "repository": "https://github.com/bobisjan/atom-ember",
   "license": "MIT",
   "engines": {
