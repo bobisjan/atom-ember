@@ -1,0 +1,17 @@
+{
+  "name": "atom-ember",
+  "version": "0.0.0",
+  "main": "./lib/main",
+  "description": "A Atom package for Ember projects",
+  "keywords": [
+    "atom",
+    "ember"
+  ],
+  "repository": "https://github.com/bobisjan/atom-ember",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
